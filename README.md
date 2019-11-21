@@ -1,5 +1,5 @@
 # Algorithm
-# VS2017使用github指南
+### VS2017使用github指南
 VS中下载插件 工具→扩展和更新→github extention for Visual Studio 
 <br>下载完重启
 <br>新建项目 
