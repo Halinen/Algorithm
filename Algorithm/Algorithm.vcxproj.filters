@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P1000.cpp">
+    <ClCompile Include="格式控制.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
