@@ -18,5 +18,8 @@
     <ClCompile Include="格式控制.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
